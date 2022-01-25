@@ -1,6 +1,6 @@
-# remind_me
+# Remind Me
 
-A new Flutter project.
+A Flutter project that combines Remainder, Health and Notes apps all in one app.
 
 ## Getting Started
 
